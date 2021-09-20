@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 22.03 Project Portfolio
 
-You can use the [editor on GitHub](https://github.com/DeIonizedPlasma/22.03/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Project Overview
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This semester, the entire class will focus on a single project for the full duration of the term. Instructors will act as both advisors and clients for the project.
 
-### Markdown
+We will start with ideation, then proceed with design and development with the goal of having a working prototype by the end of the semester.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There will likely need to be several teams, depending on the needs of our project idea. These teams may potentially include:
 
-```markdown
-Syntax highlighted code block
+- Energy capture/distribution
+- Mechanical design
+- Material selection
+- Project management
 
-# Header 1
-## Header 2
-### Header 3
+### Project Brief
 
-- Bulleted
-- List
+Students are to design an intervention that captures energy from the environment and uses it to accomplish one or more of the following:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DeIonizedPlasma/22.03/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- As a didactic tool to demonstrate to the public some principles related to sustainability and renewable resources
+- To accomplish a task normally accomplished with traditional forms of energy
+- Capture and utilize the energy in a novel manner beneficial to humanity
